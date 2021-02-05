@@ -1,0 +1,19 @@
+1) Constructors --> special methods for building the objects
+
+2) Inheritance --> Accessing properties acquired from other classes if they are at parent level
+
+3) Abstraction --> Show only important details. Hide what is not relevant
+                --> Goal should always be to achieve HIGHEST possible abstraction level
+
+4) Polymorphism --> Creating multiple variations of the same operation by changing implementation details
+
+5) Encapsulation --> Wrapping or binding logic along with relevant data fields in a single unit
+                --> Only those logics which are related to the class( along with required data fields) SHOULD BE PRESENT IN A CLASS
+
+6) Exception Handling --> The steps taken to ensure program does not malfunction or crash
+
+7) Interfaces --> Collections of logic or data integrity that a class must implement while inheriting from it
+
+8) Overloading --> Changing the behaviour of a method based on passed values or type to be returned create a new version of this method
+
+9) Overriding --> To change the behaviour of method inherited from parent.
